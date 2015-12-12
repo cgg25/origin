@@ -8,7 +8,7 @@ public class Ejercicio3{
 			precio=precio-(precio*10/100);
 			System.out.println(precio);
 		}
-		if(precio<6){
+		if(precio<7){
 			precio=precio+2;
 			System.out.println("Precio + gastos de gestion " + precio);
 		}
